@@ -13,3 +13,8 @@ Remix
 # (De)Compression
 [fflate](https://github.com/101arrowz/fflate)
 ![image](https://github.com/jeffreys-cat/Web-Tools/assets/11832969/def87036-c878-4b0f-bab0-8699ea2d9240)
+
+# CSS
+
+### Custom scrollbar
+[scrollbar](https://scrollbar.app/)
