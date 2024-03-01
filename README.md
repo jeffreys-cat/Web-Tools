@@ -2,7 +2,9 @@
 
 # FrameWork
 Nextjs
+
 Astor
+
 Remix
 
 # Design UI Components
@@ -24,3 +26,8 @@ Remix
 
 ### Query Builder
 [Knex](https://knexjs.org/)
+
+# Upload
+
+### react-uploady
+[https://github.com/rpldy/react-uploady](https://github.com/rpldy/react-uploady)
