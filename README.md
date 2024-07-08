@@ -40,6 +40,9 @@ Remix
 # Highlight
 [https://github.com/code-hike/codehike](https://github.com/code-hike/codehike)
 
+# Search
+[https://github.com/cloudcannon/pagefind](https://github.com/cloudcannon/pagefind)
+
 # Make videos programmatically with React
 
 [https://t.co/xlNhxwHgyW](https://t.co/xlNhxwHgyW)
